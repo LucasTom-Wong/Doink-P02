@@ -1,0 +1,10 @@
+brighten {
+  background-color: #dea0ff;
+}
+
+form_outline {
+  outline: solid;
+  outline: 6px ridge black;
+  border-radius: 1rem;
+  background-color: beige;
+}

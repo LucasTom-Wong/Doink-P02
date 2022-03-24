@@ -1,0 +1,13 @@
+.halfwidthbig {
+  position: relative;
+  width: 25%;
+  left: 37.5%;
+}
+
+
+.halfwidth {
+  position: relative;
+  width: 90%;
+  left: 5%;
+  /* color: red; */
+}
